@@ -23,7 +23,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.9638,0,0,0.7931,-17.79,-25.6)" />
     <linearGradient
-       inkscape:collect="always"
+
        id="linearGradient3046"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.9638,0,0,0.7931,-16.88,-30.151)"
@@ -36,7 +36,7 @@
      d="m 2,2.0999861 0,359.8000039 439.6,0 0,-359.8000039 -439.6,0 z m 59.7,59.6999999 320.2,0 0,240.300004 -320.2,0 0,-240.300004 z"
      style="fill:#dca650;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
      id="path16"
-     inkscape:connector-curvature="0" />
+/>
   <g
      id="g1"
      transform="translate(-16.8,-6.0000139)">
@@ -47,7 +47,7 @@
          d="m 46.3,64.2 0,25.7 c -2.4,2.4 -5.2,4.6 -19.9,5.3 -1.4,0 -2.9,0.1 -4.6,0.1 -0.1,-3.1 0.6,-6.1 1.8,-9.5 0,0 -3.1,-2 -1.8,-3.9 0.5,-0.8 1.1,-1.1 1.6,-1 -1.2,-2.2 -1.8,-9.8 -1.7,-16.7 M 23.8,64 c -0.1,7.5 0.3,15.1 0.7,17.1 3.1,1.5 7.2,10.9 19.8,4.2 C 27.8,86.1 27.2,74.4 28.2,73 c 4.2,-6.2 3.4,6.9 15.1,5.1 -2.6,-1.1 -10.1,-4.9 -10.2,-8.4 1.9,-6.6 8.1,6.4 13.1,1.2 -2,-6.9 -15,-6.8 -22,-6.7"
          id="p1"
          style="fill:#ffd371;fill-opacity:1;fill-rule:evenodd;stroke:#7a460d;stroke-width:1.22800004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         inkscape:connector-curvature="0" />
+    />
       <use
          transform="matrix(1,0,0,-1,0,128.5)"
          id="use21"
@@ -149,7 +149,7 @@
      d="m 31.8,31.899986 0,300.300004 380.1,0 0,-300.300004 -380.1,0 z m 20,20.3 340.2,0 0,260.400004 -340.2,0 0,-260.400004 z"
      style="fill:#e3b976;fill-opacity:1;fill-rule:evenodd;stroke:#9d691a;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
      id="path47"
-     inkscape:connector-curvature="0" />
+/>
   <g
      style="fill:#6d3e06;fill-opacity:1;stroke:none;display:inline"
      id="g49"
@@ -158,16 +158,16 @@
        d="M 78.5,67.8 18.8,8 458.4,8.1 398.7,67.8 78.5,67.8 z"
        style="opacity:0.35"
        id="path51"
-       inkscape:connector-curvature="0" />
+  />
     <path
        d="m 458.4,8.1 -59.7,59.7 0,240.3 59.7,59.8 0,-359.8 z"
        style="opacity:0.5"
        id="path53"
-       inkscape:connector-curvature="0" />
+  />
     <path
        d="m 458.4,367.9 -59.7,-59.8 -320.2,0 -59.7,59.8 439.6,0 z"
        style="opacity:0.2"
        id="path55"
-       inkscape:connector-curvature="0" />
+  />
   </g>
 </svg>
